@@ -1,1 +1,9 @@
 theme: minima
+
+title: "Redirect to Personal Site"
+plugins:
+  - jekyll-redirect-from
+
+redirect_from:
+  - "/"
+  - "/index.html"
