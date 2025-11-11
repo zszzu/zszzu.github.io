@@ -1,0 +1,7 @@
+css
+/* 修改所有 mark 标签的样式 */
+mark {
+    color: red;
+    background-color: transparent; /* 去掉黄色背景 */
+    font-weight: bold;
+}
