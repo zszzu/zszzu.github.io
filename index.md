@@ -44,17 +44,17 @@
 * Yulong Li, Wenxin Li, Yuxuan Du, Yinan Yao, **Song Zhang**, Linxuan Zhong, and Keqiu Li. “Flexible Job Scheduling with Spatial-Temporal Compatibility for In-Network Aggregation [J].” IEEE Transactions on Computers (TC), 2024 （**CCF-A类期刊**）
 * Wenxin Li, Sheng Chen, Keqiu Li, Heng Qi, Renhai Xu, and **Zhang Song**. “Efficient online scheduling for coflow-aware machine learning clusters [J].” IEEE Transactions on Cloud Computing (TCC). 2020, 10:2564-2579.（**JCR 1区/中科院2区**）
 * Luo Juan, **Song Zhang**, Luxiu Yin, and Yaling Guo. “Dynamic flow scheduling for power optimization of data center networks [C].” In Fifth International Conference on Advanced Cloud and Big Data (CBD). IEEE, 2017: 57-62.（**EI检索**）
-* Luxiu Yin, Juan Luo, **Song Zhang**, and Zhangwei Yang. “Virtual machine migration scheme based on score matrix in data centers [C].” IEEE International Symposium on Parallel and Distributed Processing with Application (ISPA). IEEE, 2017:737-743.（**CCF-C**）
-* Xin He, Wenxin Li, **Song Zhang**, and Keqiu Li. “Efficient Control of Unscheduled Packets for Credit-based Proactive Transport [C].” IEEE 28th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2022:593-600.（**CCF-C**）
-* Hao Liu, Wenxin Li, Xin He, **Song Zhang**, and Keqiu Li. “Cozy: A CPU-aware Building Block for Congestion Control [C].” The 32nd International Conference on Computer Communications and Networks (ICCCN). IEEE, 2023.（**CCF-C**）
-* Renjie Pei, Wenxin Li, Yulong Li, **Song Zhang**, Yaozhen Li, and Wenyu Qu. “Mild: A Zero-Wait Multi-Round Proactive Transport [C].” The Symposium on Computers and Communications (ISCC). IEEE, 2024.（**CCF-C**）
-* Zewei Guan, Wenxin Li, Xin He, **Song Zhang**, and Keqiu Li. “dBFC: Destination-based Backpressure Flow Control for Incast.” The 28th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2024:1853-1860.（**CCF-C**）
+* Luxiu Yin, Juan Luo, **Song Zhang**, and Zhangwei Yang. “Virtual machine migration scheme based on score matrix in data centers [C].” IEEE International Symposium on Parallel and Distributed Processing with Application (ISPA). IEEE, 2017:737-743.（**CCF-C类会议**）
+* Xin He, Wenxin Li, **Song Zhang**, and Keqiu Li. “Efficient Control of Unscheduled Packets for Credit-based Proactive Transport [C].” IEEE 28th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2022:593-600.（**CCF-C类会议**）
+* Hao Liu, Wenxin Li, Xin He, **Song Zhang**, and Keqiu Li. “Cozy: A CPU-aware Building Block for Congestion Control [C].” The 32nd International Conference on Computer Communications and Networks (ICCCN). IEEE, 2023.（**CCF-C类会议**）
+* Renjie Pei, Wenxin Li, Yulong Li, **Song Zhang**, Yaozhen Li, and Wenyu Qu. “Mild: A Zero-Wait Multi-Round Proactive Transport [C].” The Symposium on Computers and Communications (ISCC). IEEE, 2024.（**CCF-C类会议**）
+* Zewei Guan, Wenxin Li, Xin He, **Song Zhang**, and Keqiu Li. “dBFC: Destination-based Backpressure Flow Control for Incast.” The 28th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2024:1853-1860.（**CCF-C类会议**）
 
 
 ### **发明专利**
-*	李克秋，**张松**，李文信. **拥塞位置可感知的低时延数据中心网络传输系统及方法**，ZL202111428986.9. 2021-11-28. **授权**
-*	**张松**，李文信. **面向数据包调度策略可编程的缓存感知中间件**，ZL202410899005.6. 2024-07-05. **授权**
-*	**张松**，李文信. **面向数据中心网络混合流的交换机缓存管理策略**，ZL202411038525.4. 2024-07-31. **授权**
+*	李克秋，**张松**，李文信. 拥塞位置可感知的低时延数据中心网络传输系统及方法，ZL202111428986.9. 2021-11-28. **授权**
+*	**张松**，李文信. 面向数据包调度策略可编程的缓存感知中间件，ZL202410899005.6. 2024-07-05. **授权**
+*	**张松**，李文信. 面向数据中心网络混合流的交换机缓存管理策略，ZL202411038525.4. 2024-07-31. **授权**
 
 
 ### **科研项目**
