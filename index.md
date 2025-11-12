@@ -1,15 +1,15 @@
-<img align="left" width="150" height="180" src="https://github.com/user-attachments/assets/ab62827b-d0ee-4fe4-a7e2-36593efa8dd7" />
+<img align="left" width="150" height="180" src="https://github.com/user-attachments/assets/ab62827b-d0ee-4fe4-a7e2-36593efa8dd7" style="margin-right:10px;"/>
 
 
 ### **· 张松**
 
-· 郑州大学计算机与人工智能学院 博士后
+郑州大学计算机与人工智能学院 博士后
 
-· 邮箱：zhangsonghnu@foxmail.com
+邮箱：zhangsonghnu@foxmail.com
 
-· 个人网站：newcontinent.cn
+个人网站：newcontinent.cn
 
-· 通讯地址：河南省郑州市科学大道100号计算机与人工智能学院
+通讯地址：河南省郑州市科学大道100号计算机与人工智能学院
 
 ---
 
