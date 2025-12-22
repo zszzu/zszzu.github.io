@@ -31,7 +31,7 @@
 *	参与组织 ICPADS 2019、SmartIOT 2019、ICA3PP 2023、ICA3PP 2025
 *	参与组织 图灵大会2021，世界智能大会2023，中国网络大会2023等大型会议的相关分论坛
   
-### **代表论文**
+### **发表论文**
 1. <span style="color: #FF0000;">[CCF A]</span> <b><span style="color: #4682b4;">Song Zhang</span></b>, Wenxin Li, Yulong Li, Yuan Liu, Lide Suo, Sheng Chen, Yitao Hu, Laiping Zhao, and Keqiu Li. “Lark: A Buffer-Aware Building Block for Programmable Packet Scheduling [C].” IEEE International Conference on Computer Communications (INFOCOM), 2025 
 2. <span style="color: #FF0000;">[JCR Q1]</span>	<b><span style="color: #4682b4;">Song Zhang</span></b>, Lide Suo, Wenxin Li, Yuan Liu, Yulong Li, and Keqiu Li. “Anole: Scheduling Flows for Fast Datacenter Networks With Packet Re-Prioritization [J].” IEEE Transactions on Cloud Computing (TCC), 2024, 12：550-562. 
 3. <span style="color: #FF0000;">[JCR Q1]</span> <b><span style="color: #4682b4;">Song Zhang</span></b>, Wenxin Li, Lide Suo, Yuan Liu, Yulong Li, Jein Kato, and Keqiu Li. “BRT: Buffer Management for RDMA/TCP Mix-flows in Datacenter Networks [J].” IEEE Transactions on Network and Service Management (TNSM), 2024, 21：4146-4160. 
