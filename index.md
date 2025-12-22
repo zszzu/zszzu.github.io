@@ -32,7 +32,7 @@
 *	参与组织 图灵大会2021，世界智能大会2023，中国网络大会2023等大型会议的相关分论坛
   
 ### **代表论文**
-* **Song Zhang**, Wenxin Li, Yulong Li, Yuan Liu, Lide Suo, Sheng Chen, Yitao Hu, Laiping Zhao, and Keqiu Li. “Lark: A Buffer-Aware Building Block for Programmable Packet Scheduling [C].” IEEE International Conference on Computer Communications (INFOCOM), 2025 (**CCF-A类会议**)
+* **Song Zhang**, Wenxin Li, Yulong Li, Yuan Liu, Lide Suo, Sheng Chen, Yitao Hu, Laiping Zhao, and Keqiu Li. “Lark: A Buffer-Aware Building Block for Programmable Packet Scheduling [C].” IEEE International Conference on Computer Communications (INFOCOM), 2025 (**CCF-A类会议**) <span style="color: #FF0000;">[CCF-A类会议]</span>
 *	**Song Zhang**, Lide Suo, Wenxin Li, Yuan Liu, Yulong Li, and Keqiu Li. “Anole: Scheduling Flows for Fast Datacenter Networks With Packet Re-Prioritization [J].” IEEE Transactions on Cloud Computing (TCC), 2024, 12：550-562. （**JCR 1区/中科院2区**）
 * **Song Zhang**, Wenxin Li, Lide Suo, Yuan Liu, Yulong Li, Jein Kato, and Keqiu Li. “BRT: Buffer Management for RDMA/TCP Mix-flows in Datacenter Networks [J].” IEEE Transactions on Network and Service Management (TNSM), 2024, 21：4146-4160. （**JCR 1区/中科院2区**）
 * Yulong Li, Wenxin Li, Yuan Liu, **Song Zhang**, Jiawen Shen, Jin Zhang, Keqiu Li [J]. Rethinking Selective In-network Aggregation for Multi-tenant Learning [J]. IEEE/ACM Transactions on Networking (TON), 2025. (**通讯作者、CCF-A类期刊**)
