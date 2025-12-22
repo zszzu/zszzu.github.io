@@ -26,7 +26,7 @@
   
 ### **学术服务**
 
-*	担任国际学术期刊/会议 IEEE TNSM/IEEE TCE/IEEE Internet Computing/IEEE ICPADS/IEEE ICA3PP审稿人
+*	担任国际学术期刊/会议 IEEE TNSM/IEEE TCE/IEEE IC/IEEE ICPADS/IEEE ICA3PP审稿人
 *	贡献审稿意见 IEEE INFOCOM/IEEE TPDS/IEEE TC/IEEE TCC/IEEE ICC/Elsevier JNCA/IEEE IFIP
 *	参与组织 ICPADS 2019、SmartIOT 2019、ICA3PP 2023、ICA3PP 2025
 *	参与组织 图灵大会2021，世界智能大会2023，中国网络大会2023等大型会议的相关分论坛
