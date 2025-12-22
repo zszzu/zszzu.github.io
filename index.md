@@ -14,7 +14,7 @@
 ---
 
 ### **个人简介**
-张松，河南安阳人，郑州大学计算机与人工智能学院人机物智能实验室初聘副教授。主要研究方向包括数据中心网络、云计算、大规模机器学习训练网络加速等。近年来，在网络和系统的重要国际学术会议和期刊发表16篇论文（第一及通讯5篇），其中包括USENIX NSDI、IEEE INFOCOM、IEEE/ACM Transactions on Networking、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing等国际顶尖学术会议和期刊。
+张松，河南安阳人，郑州大学计算机与人工智能学院人机物智能实验室初聘副教授。主要研究方向包括数据中心网络流量调度、高速交换机缓存管理、大规模机器学习训练网络加速、AI4NET等。近年来，在网络和系统的重要国际学术会议和期刊发表16篇论文（第一及通讯5篇），其中包括USENIX NSDI、IEEE INFOCOM、IEEE/ACM Transactions on Networking、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing等国际顶尖学术会议和期刊。
 
 ### **工作及教育经历**
 *	2025.09-至今：郑州大学，计算机与人工智能学院，副教授、博士后（合作导师：杨天若教授）
@@ -26,8 +26,8 @@
   
 ### **学术服务**
 
-*	担任国际学术期刊/会议 IEEE TNSM/IEEE TCE/IEEE Internet Computing 审稿人
-*	贡献审稿意见 IEEE INFOCOM/IEEE TPDS/IEEE TC/IEEE TCC/IEEE ICC/IEEE IFIP
+*	担任国际学术期刊/会议 IEEE TNSM/IEEE TCE/IEEE Internet Computing/IEEE ICPADS/IEEE ICA3PP审稿人
+*	贡献审稿意见 IEEE INFOCOM/IEEE TPDS/IEEE TC/IEEE TCC/IEEE ICC/Elsevier JNCA/IEEE IFIP
 *	参与组织 ICPADS 2019、SmartIOT 2019、ICA3PP 2023、ICA3PP 2025
 *	参与组织 图灵大会2021，世界智能大会2023，中国网络大会2023等大型会议的相关分论坛
   
