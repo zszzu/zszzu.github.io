@@ -14,7 +14,7 @@
 ---
 
 ### **个人简介**
-张松，河南安阳人，郑州大学计算机与人工智能学院人机物智能实验室初聘副教授。主要研究方向包括数据中心网络、云计算、大规模机器学习训练网络加速等。近年来，在网络和系统的重要国际学术会议和期刊发表十余篇论文，其中包括USENIX NSDI、IEEE INFOCOM、IEEE/ACM Transactions on Networking、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing等国际顶尖学术会议和期刊。
+张松，河南安阳人，郑州大学计算机与人工智能学院人机物智能实验室初聘副教授。主要研究方向包括数据中心网络、云计算、大规模机器学习训练网络加速等。近年来，在网络和系统的重要国际学术会议和期刊发表16篇论文（第一及通讯5篇），其中包括USENIX NSDI、IEEE INFOCOM、IEEE/ACM Transactions on Networking、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing等国际顶尖学术会议和期刊。
 
 ### **工作及教育经历**
 *	2025.09-至今：郑州大学，计算机与人工智能学院，副教授、博士后（合作导师：杨天若教授）
@@ -35,8 +35,8 @@
 1. <span style="color: #FF0000;">[CCF A]</span> <b><span style="color: #4682b4;">Song Zhang</span></b>, Wenxin Li, Yulong Li, Yuan Liu, Lide Suo, Sheng Chen, Yitao Hu, Laiping Zhao, and Keqiu Li. “Lark: A Buffer-Aware Building Block for Programmable Packet Scheduling [C].” IEEE International Conference on Computer Communications (INFOCOM), 2025 
 2. <span style="color: #FF0000;">[JCR Q1]</span>	<b><span style="color: #4682b4;">Song Zhang</span></b>, Lide Suo, Wenxin Li, Yuan Liu, Yulong Li, and Keqiu Li. “Anole: Scheduling Flows for Fast Datacenter Networks With Packet Re-Prioritization [J].” IEEE Transactions on Cloud Computing (TCC), 2024, 12：550-562. 
 3. <span style="color: #FF0000;">[JCR Q1]</span> <b><span style="color: #4682b4;">Song Zhang</span></b>, Wenxin Li, Lide Suo, Yuan Liu, Yulong Li, Jein Kato, and Keqiu Li. “BRT: Buffer Management for RDMA/TCP Mix-flows in Datacenter Networks [J].” IEEE Transactions on Network and Service Management (TNSM), 2024, 21：4146-4160. 
-4. <span style="color: #FF0000;">[CCF A]</span> Yulong Li, Wenxin Li, Yuan Liu, <b><span style="color: #4682b4;">Song Zhang*</span></b>, Jiawen Shen, Jin Zhang, Keqiu Li [J]. Rethinking Selective In-network Aggregation for Multi-tenant Learning [J]. IEEE/ACM Transactions on Networking (TON), 2025.
-5. <span style="color: #FF0000;">[JCR Q1]</span> Zhongju Yan, Chenyu Zhang, Zhiyuan Zheng, Yiran Lv, Hao Xu, Xiulong Liu, <b><span style="color: #4682b4;">Song Zhang*</span></b>, Keqiu Li. “AirBFT: An Efficient and Robust Consensus Mechanism for Large-scale Drone Collaboration [J].” IEEE Internet of Things Journal (IOTJ), 2025. 
+4. <span style="color: #FF0000;">[CCF A]</span> Yulong Li, Wenxin Li, Yuan Liu, <b><span style="color: #4682b4;">Song Zhang#</span></b>, Jiawen Shen, Jin Zhang, Keqiu Li [J]. Rethinking Selective In-network Aggregation for Multi-tenant Learning [J]. IEEE/ACM Transactions on Networking (TON), 2025.
+5. <span style="color: #FF0000;">[JCR Q1]</span> Zhongju Yan, Chenyu Zhang, Zhiyuan Zheng, Yiran Lv, Hao Xu, Xiulong Liu, <b><span style="color: #4682b4;">Song Zhang#</span></b>, Keqiu Li. “AirBFT: An Efficient and Robust Consensus Mechanism for Large-scale Drone Collaboration [J].” IEEE Internet of Things Journal (IOTJ), 2025. 
 6. <span style="color: #FF0000;">[CCF A]</span> Wenxin Li, Xin He, Yuan Liu, Keqiu Li, Kai Chen, Zhao Ge, Zewei Guan, Heng Qi, <b><span style="color: #4682b4;">Song Zhang</span></b>, and Guyue Liu. “Flow scheduling with imprecise knowledge [C].” 21st USENIX Symposium on Networked Systems Design and Implementation (NSDI). USENIX, 2024: 95-111.
 7. <span style="color: #FF0000;">[CCF A]</span> Yulong Li, Wenxin Li, Yuxuan Du, Yinan Yao, <b><span style="color: #4682b4;">Song Zhang</span></b>, Linxuan Zhong, and Keqiu Li. “Flexible Job Scheduling with Spatial-Temporal Compatibility for In-Network Aggregation [J].” IEEE Transactions on Computers (TC), 2024 
 8. <span style="color: #FF0000;">[CCF A]</span> Yang Li, Yaozhen Li, Wenxin Li, Yulong Li, <b><span style="color: #4682b4;">Song Zhang</span></b>, Renjie Pei, Xiancheng Meng, Jin Zhang, and Keqiu Li. “ECC: Efficient Concurrency Control for Disaggregated Memory Systems.[J]” IEEE Transactions on Computers (TC), 2025 
