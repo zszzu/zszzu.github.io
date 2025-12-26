@@ -27,7 +27,7 @@
 ### **学术服务**
 
 *	担任国际学术期刊/会议 IEEE TNSM/IEEE TCE/IEEE IC/IEEE ICPADS/IEEE ICA3PP审稿人
-*	贡献审稿意见 IEEE INFOCOM/IEEE TPDS/IEEE TC/IEEE TCC/IEEE ICC/Elsevier JNCA/IEEE IFIP
+*	贡献审稿意见 IEEE INFOCOM/IEEE TPDS/IEEE TC/IEEE TCC/IEEE ICC/Elsevier JNCA
 *	参与组织 ICPADS 2019、SmartIOT 2019、ICA3PP 2023、ICA3PP 2025
 *	参与组织 图灵大会2021，世界智能大会2023，中国网络大会2023等大型会议的相关分论坛
   
@@ -36,7 +36,7 @@
 2. <span style="color: #FF0000;">[CCF A]</span> Yulong Li, Wenxin Li, Yuan Liu, <b><span style="color: #4682b4;">Song Zhang#</span></b>, Jiawen Shen, Jin Zhang, Keqiu Li [J]. Rethinking Selective In-network Aggregation for Multi-tenant Learning [J]. IEEE/ACM Transactions on Networking (TON), 2025.
 3. <span style="color: #FF0000;">[JCR Q1]</span> Zhongju Yan, Chenyu Zhang, Zhiyuan Zheng, Yiran Lv, Hao Xu, Xiulong Liu, <b><span style="color: #4682b4;">Song Zhang#</span></b>, Keqiu Li. “AirBFT: An Efficient and Robust Consensus Mechanism for Large-scale Drone Collaboration [J].” IEEE Internet of Things Journal (IOTJ), 2025.
 4. <span style="color: #FF0000;">[CCF A]</span> <b><span style="color: #4682b4;">Song Zhang</span></b>, Wenxin Li, Yulong Li, Yuan Liu, Lide Suo, Sheng Chen, Yitao Hu, Laiping Zhao, and Keqiu Li. “Lark: A Buffer-Aware Building Block for Programmable Packet Scheduling [C].” IEEE International Conference on Computer Communications (INFOCOM), 2025 
-5. <span style="color: #FF0000;">[CCF A]</span> Wenxin Li, Xin He, Yuan Liu, Keqiu Li, Kai Chen, Zhao Ge, Zewei Guan, Heng Qi, <b><span style="color: #4682b4;">Song Zhang</span></b>, and Guyue Liu. “Flow scheduling with imprecise knowledge [C].” 21st USENIX Symposium on Networked Systems Design and Implementation (NSDI). USENIX, 2024: 95-111.
+5. <span style="color: #FF0000;">[CCF A]</span> Wenxin Li, Xin He, Yuan Liu, Keqiu Li, Kai Chen, Zhao Ge, Zewei Guan, Heng Qi, <b><span style="color: #4682b4;">Song Zhang</span></b>, and Guyue Liu. “Flow scheduling with imprecise knowledge [C].” 21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024.
 6. <span style="color: #FF0000;">[CCF C]</span> Zewei Guan, Wenxin Li, Xin He, <b><span style="color: #4682b4;">Song Zhang</span></b>, and Keqiu Li. “dBFC: Destination-based Backpressure Flow Control for Incast [C].” The 28th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2024:1853-1860.
 7. <span style="color: #FF0000;">[JCR Q1]</span>	<b><span style="color: #4682b4;">Song Zhang</span></b>, Lide Suo, Wenxin Li, Yuan Liu, Yulong Li, and Keqiu Li. “Anole: Scheduling Flows for Fast Datacenter Networks With Packet Re-Prioritization [J].” IEEE Transactions on Cloud Computing (TCC), 2024, 12：550-562.
 8. <span style="color: #FF0000;">[CCF A]</span> Yulong Li, Wenxin Li, Yuxuan Du, Yinan Yao, <b><span style="color: #4682b4;">Song Zhang</span></b>, Linxuan Zhong, and Keqiu Li. “Flexible Job Scheduling with Spatial-Temporal Compatibility for In-Network Aggregation [J].” IEEE Transactions on Computers (TC), 2024
